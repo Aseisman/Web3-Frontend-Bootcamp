@@ -1,0 +1,1 @@
+- graph init --studio nftmarket-demo --abi ./abi.json --from-contract 0x688B2E1556e826a405E7529f0c26c86c551A41B9
